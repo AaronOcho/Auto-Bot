@@ -37,7 +37,7 @@ Violations of this code will be handled with appropriate action, including warni
 
 If you witness or experience unacceptable behavior, please report it to the maintainers via:  
 📧 **Email**: [aaronochoa1523@gmail.com](aaronochoa1523@gmail.com)  
-🔗 **GitHub Issues**: [Open a confidential report](https://github.com/AaronOcho/Auto/issues)  
+🔗 **GitHub Issues**: [Open a confidential report](https://github.com/AaronOcho/Auto-Bot/issues)  
 
 We take all reports seriously and will respond promptly.  
 
