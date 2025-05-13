@@ -11,8 +11,8 @@ Please follow the guidelines below to ensure a smooth contribution process.
 ### 1️⃣ **Fork the Repository**  
 Start by forking the repository to your GitHub account and cloning it to your local machine:  
 ```bash
-git clone https://github.com/AaronOcho/Auto
-cd Auto
+git clone https://github.com/AaronOcho/Auto-Bot
+cd Auto-Bot
 ```
 
 ### 2️⃣ **Create a New Branch**  
@@ -70,7 +70,7 @@ If you find any **bugs or issues**, please open an issue in the GitHub repositor
 - **Expected behavior** vs. **Actual behavior**.  
 - **Screenshots or logs**, if applicable.  
 
-Create a new issue [here](https://github.com/your-repo/Auto/issues).  
+Create a new issue [here](https://github.com/your-repo/Auto-Bot/issues).  
 
 ---
 
