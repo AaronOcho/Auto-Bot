@@ -2,7 +2,7 @@
 
 ### **1️⃣ Clone the Repository**  
 ```bash
-git clone https://github.com/AaronOcho/Auto
+git clone https://github.com/AaronOcho/Auto-Bot
 cd Auto
 ```
 
@@ -59,7 +59,7 @@ This project is licensed under the **MIT License**. See [LICENSE](LICENSE) for d
 
 ## **🔗 Original Source & Credits**  
 
-This project is based on the open-source [Facebook Autobot](https://github.com/AaronOcho/Auto).  
+This project is based on the open-source [Facebook Autobot](https://github.com/AaronOcho/Auto-Bot).  
 
 ---
 
