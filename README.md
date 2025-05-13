@@ -2,7 +2,7 @@
 
 ### **1️⃣ Clone the Repository**  
 ```bash
-git clone https://github.com/Aminulsordar/Auto
+git clone https://github.com/AaronOcho/Auto
 cd Auto
 ```
 
@@ -59,14 +59,15 @@ This project is licensed under the **MIT License**. See [LICENSE](LICENSE) for d
 
 ## **🔗 Original Source & Credits**  
 
-This project is based on the open-source [Facebook Autobot](https://github.com/aizintel/AUTO).  
+This project is based on the open-source [Facebook Autobot](https://github.com/AaronOcho/Auto).  
 
 ---
 
 ## **📞 Contact & Support**  
 
-📧 **Email**: [aminulsordar04@gmail.com](aminulsordar04@gmail.com)  
-💬 **Community**: [Join the discussion](https://facebook.com/100071880593545)  
+📧 **Email**: [aaronochoa1523gmail.com](aaronochoa1523@gmail.com)  
+📫 **Telegram**:
+[OchoOcho21] (https://t.me/OchoOcho21)
 
 ✨ **Happy Chatbot Building! 🚀**  
 
