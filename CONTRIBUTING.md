@@ -11,7 +11,7 @@ Please follow the guidelines below to ensure a smooth contribution process.
 ### 1️⃣ **Fork the Repository**  
 Start by forking the repository to your GitHub account and cloning it to your local machine:  
 ```bash
-git clone https://github.com/Aminulsordar/Auto
+git clone https://github.com/AaronOcho/Auto
 cd Auto
 ```
 
