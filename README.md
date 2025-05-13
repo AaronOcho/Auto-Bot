@@ -67,7 +67,7 @@ This project is based on the open-source [Facebook Autobot](https://github.com/A
 
 📧 **Email**: [aaronochoa1523gmail.com](aaronochoa1523@gmail.com)  
 📫 **Telegram**:
-[https://t.me/OchoOcho21]
+https://t.me/OchoOcho21
 
 ✨ **Happy Chatbot Building! 🚀**  
 
