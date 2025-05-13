@@ -3,7 +3,7 @@
 ### **1️⃣ Clone the Repository**  
 ```bash
 git clone https://github.com/AaronOcho/Auto-Bot
-cd Auto
+cd Auto-Bot
 ```
 
 ### **2️⃣ Install Dependencies**  
